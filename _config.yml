@@ -1,0 +1,63 @@
+# Site
+#repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Alexey Kouznetsov
+title: Frontend developer
+email: https://github.com/AlexWebArchitect
+website: github.com/AlexWebArchitect
+
+# Social links
+#twitter_username: facespics
+github_username: AlexWebArchitect
+# telegram_username: asd
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: chillwildlife
+linkedin_username: alex-kouznetsov
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+#darkmode: true
+# About Section
+# about_title: About Me
+#about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I like being helpful. I like to keep up with everything and aim at productivity. I like programming. I like to create something with my own hands. I like to see how my creation works and benefits people. It motivates me even more and makes me happy to the core. I like to study and learn new technologies.
+
+  <mark>TypeScript</mark> <mark>React</mark>
+
+#  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+#more_content: | # this will include new lines to allow paragraphs
+#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+#footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag

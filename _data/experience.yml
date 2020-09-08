@@ -1,0 +1,44 @@
+- layout: left
+  company: Megafon
+  link: www.megafon.ru
+  job_title: Frontend developer
+  dates: Nov 2019 – Sep 2020
+  #  quote: >
+  #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Worked on B2B and B2G IoT projects.
+
+    **Responsibilities**:
+
+    *	Implementing new design
+    *	Creating a new frontend structure
+    *	Code review
+
+    **Technologies**:
+
+    react, storybook, leaflet
+
+- layout: left
+  company: TheBestApp
+  link: thebestapp.ru
+  job_title: Frontend developer
+  dates: Jul 2019 – Oct 2019
+  #  quote: >
+  #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Developed several SPA's.
+
+    **Responsibilities**:
+
+    *	Supporting current frontend code
+    *	Creating new cross-browser and cross-platform pages
+
+    **Achievements**:
+
+    *	Adapted current functionality to mobile
+    *	Implemented new features
+    * scrum leader in the number of closed tasks
+
+    **Technologies**:
+
+    react, redux, service worker
