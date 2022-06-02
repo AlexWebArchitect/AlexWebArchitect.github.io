@@ -1,44 +1,73 @@
 - layout: left
+  company: Sizdev
+  link: sizdev.com
+  job_title: Frontend developer
+  dates: Mar 2021 – Jun 2022
+  description: |
+      Developed several typescript react projects
+
+      **Responsibilities**:
+
+      *	designed web architecture
+      *	quickly finished tasks
+
+      **Technologies**:
+
+      typescript, react, mobx
+
+- layout: left
+  company: FormatTwo
+  job_title: Frontend developer
+  dates: Oct 2020 – Feb 2021
+  description: |
+      Developed a project with dynamic maps.
+
+      **Responsibilities**:
+
+      *	Implement maps with leaflet
+      *	Data visualisation
+
+      **Technologies**:
+
+      react, redux, saga, leaflet
+
+- layout: left
   company: Megafon
   link: www.megafon.ru
   job_title: Frontend developer
-  dates: Nov 2019 – Sep 2020
-  #  quote: >
-  #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    Worked on B2B and B2G IoT projects.
+  dates: Nov 2019 – Oct 2020
+  description: |
+      Worked on B2B and B2G IoT projects.
 
-    **Responsibilities**:
+      **Responsibilities**:
 
-    *	Implementing new design
-    *	Creating a new frontend structure
-    *	Code review
+      *	Implementing new design
+      *	Creating a new frontend structure
+      *	Code review
 
-    **Technologies**:
+      **Technologies**:
 
-    react, storybook, leaflet
+      react, storybook, leaflet
 
 - layout: left
   company: TheBestApp
   link: thebestapp.ru
   job_title: Frontend developer
-  dates: Jul 2019 – Oct 2019
-  #  quote: >
-  #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    Developed several SPA's.
+  dates: Jun 2018 – Oct 2019
+  description: |
+      Developed several SPA's.
 
-    **Responsibilities**:
+      **Responsibilities**:
 
-    *	Supporting current frontend code
-    *	Creating new cross-browser and cross-platform pages
+      *	Supporting current frontend code
+      *	Creating new cross-browser and cross-platform pages
 
-    **Achievements**:
+      **Achievements**:
 
-    *	Adapted current functionality to mobile
-    *	Implemented new features
-    * scrum leader in the number of closed tasks
+      *	Adapted current functionality to mobile
+      *	Implemented new features
+      * scrum leader in the number of closed tasks
 
-    **Technologies**:
+      **Technologies**:
 
-    react, redux, service worker
+      react, redux, service worker
